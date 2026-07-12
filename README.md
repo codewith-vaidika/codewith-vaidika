@@ -44,7 +44,7 @@ const vaidika = {
 
 | 🧩 DSA Problems | 🎓 CGPA | 💼 Projects |
 |:-:|:-:|:-:|
-| **300+** | **8.11 / 10** | **4 live** |
+| **300+** | **8.14 / 10** | **4 live** |
 
 </div>
 
@@ -213,7 +213,7 @@ CNN face verification reaching **95% accuracy** across 500+ test cases. Modular 
 [![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fvaidika--thakur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaidika-thakur)
 [![Phone](https://img.shields.io/badge/📱%20+91%2093014%2001838-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919301401838)
 
-<sub>Thanks for stopping by — always open to interesting projects and internship opportunities! 🚀</sub>
+<sub>Thanks for stopping by — always open to interesting projects and job opportunities! 🚀</sub>
 
 </div>
 
