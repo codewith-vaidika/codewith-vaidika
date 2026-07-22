@@ -123,23 +123,11 @@ Full-stack AI activity-recommendation platform with a bento-box dashboard and sm
 
 ### 🐍 Daily Activity — Contribution Snake
 
-A tiny game runs on my contribution graph every single day: a snake that eats its way through my commits. It's powered by the GitHub Actions workflow in `.github/workflows/snake.yml` — it regenerates automatically on a daily schedule, so this is a **live, working** animation, not a static image.
+A tiny game runs on my contribution graph every single day: a snake that eats its way through my commits. It's powered by the GitHub Actions workflow it regenerates automatically on a daily schedule, so this is a **live, working** animation, not a static image.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codewith-vaidika/codewith-vaidika/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 </div>
-
----
-
-### 🎓 Education
-
-**VIT Bhopal University** — B.Tech, Computer Science & Engineering (AI & ML Specialisation) &nbsp;|&nbsp; 2023 – 2027
-CGPA: `8.14 / 10` &nbsp;|&nbsp; Activities: Android Club, Literature Club
-
-**St. Joseph Senior Secondary School, Narsinghgarh** &nbsp;|&nbsp; 2021 – 2023
-Class 12: `72%` &nbsp;|&nbsp; Class 10: `83%`
-
----
 
 ### 📜 Certifications
 
