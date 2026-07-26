@@ -129,15 +129,6 @@ A tiny game runs on my contribution graph every single day: a snake that eats it
   <img src="https://raw.githubusercontent.com/codewith-vaidika/codewith-vaidika/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 </div>
 
-### 📜 Certifications
-
-- Google IT Support Professional Certificate — *Coursera, Mar 2026*
-- AlgoUniversity Graphs Camp — *Oct 2025*
-- AWS Cloud Computing — *Intellipaat*
-- Advanced SQL &nbsp;|&nbsp; Machine Learning *(2024–2025)*
-
----
-
 <div align="center">
 
 ### 📬 Let's Connect
