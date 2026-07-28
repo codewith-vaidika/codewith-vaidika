@@ -110,8 +110,10 @@ Full-stack AI activity-recommendation platform with a bento-box dashboard and sm
 
 ### 📊 GitHub Stats
 
+# Hi , I'm Vaidika
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewith-vaidika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewith-vaidika&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-vaidika&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
