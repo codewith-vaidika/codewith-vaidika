@@ -2,7 +2,7 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/codewith-vaidika">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vaidika+Thakur+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;B.Tech+CSE+%40+VIT+Bhopal+(2027);300%2B+DSA+Problems+Solved+%F0%9F%92%AA;Building+cool+things+with+MERN+%2B+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vaidika+Thakur+%F0%9F%91%8B;Full-Stack+Developer+%7C+Software+Engineering;B.Tech+CSE+%40+VIT+Bhopal+(2027);300%2B+DSA+Problems+Solved+%F0%9F%92%AA;Building+cool+things+with+MERN+%2B+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,20 +16,20 @@
 
 ---
 
-### 🚀 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" align="absmiddle" /> About Me
 
-I'm a **B.Tech CSE (AI & ML)** student at **VIT Bhopal** (CGPA `8.14/10`), building real-world projects across full-stack web development and machine learning. I've solved **300+ DSA problems**, shipped several Python & JavaScript applications end-to-end, and I'm currently looking for a **Software Development / AI-ML internship** where I can contribute from day one.
+I'm a **B.Tech CSE** student at **VIT Bhopal** (CGPA `8.14/10`), building real-world projects across full-stack web development and applied machine learning. I've solved **300+ DSA problems**, shipped several Python & JavaScript applications end-to-end, and I'm currently looking for a **Software Engineering internship** where I can jump in and contribute from day one.
 
 - 🔭 Currently building **UnBored** — an AI activity-recommendation platform
-- 🌱 Sharpening skills in **DSA, System Design & Applied ML**
+- 🌱 Sharpening skills in **DSA, System Design & Full-Stack Development**
 - 🏆 Certificate of Acknowledgement — *Bharatiya Antariksh Hackathon 2025* (ISRO & Hack2skill)
 - 🎓 Registered Participant — *TCS CodeVita Season 13*
 - 📝 Co-authored undergraduate research on **AI-based legal assistance systems**
-- ⚡ Fun fact: I built a system that watches you fall asleep and yells at you (nicely) before you crash
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/High%20Voltage.png" alt="Lightning" width="18" height="18" align="absmiddle" /> Fun fact: I built a system that watches you fall asleep and yells at you (nicely) before you crash
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" align="absmiddle" /> Tech Stack
 
 <div align="center">
 
@@ -70,53 +70,46 @@ I'm a **B.Tech CSE (AI & ML)** student at **VIT Bhopal** (CGPA `8.14/10`), build
 
 ---
 
-### 💼 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" align="absmiddle" /> Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-**🔍 [Search Box Application](https://github.com/codewith-vaidika/search-box-app)**
-<br/>
-`JavaScript` `Node.js` `Express.js`
-
-Full-stack search app running multi-keyword queries across 10,000+ local records at <200ms response time. Custom Express middleware cut query latency by 40% through efficient indexing.
-
-</td>
-<td width="50%">
-
-**😴 [Drowsiness Detection & Alert System](https://github.com/codewith-vaidika/Drowsiness-Detection)**
-<br/>
-`Python` `OpenCV` `dlib` `OpenAI API`
-
-Real-time driver fatigue detector using Eye/Mouth Aspect Ratio, processing live camera feed at 30 FPS. Uses OpenAI API for context-aware spoken alerts instead of a static buzzer.
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
-
-**🎯 [UnBored](https://github.com/codewith-vaidika/Unbored-AI)**
-<br/>
-`Node.js` `Express` `MongoDB` `Gemini API` `EJS` `Tailwind CSS`
-
-Full-stack AI activity-recommendation platform with a bento-box dashboard and smooth image-slider transitions. Built a resilient AI orchestration layer using strict JSON-mode Gemini prompts with regex fallback parsing — zero crashes from unpredictable LLM output. Secure auth via Passport.js, media uploads via Cloudinary.
-
-</td>
-
-<td width="50%">
-  <b>😴 <a href="https://github.com/codewith-vaidika/Drowsiness-Detection">Drowsiness Detection & Alert System</a></b>
-  <br/>
-  <code>Python</code> <code>OpenCV</code> <code>dlib</code> <code>OpenAI API</code>
-  <br/><br/>
-  Real-time driver fatigue detector using Eye/Mouth Aspect Ratio, processing live camera feed at 30 FPS. Uses OpenAI API for context-aware spoken alerts instead of a static buzzer.
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/search-box-app">Search Box Application</a></b>
+      <br/>
+      <code>JavaScript</code> <code>Node.js</code> <code>Express.js</code>
+      <br/><br/>
+      Full-stack search app running multi-keyword queries across 10,000+ local records at <200ms response time. Custom Express middleware cut query latency by 40% through efficient indexing.
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" alt="Sleep" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/Drowsiness-Detection">Drowsiness Detection System</a></b>
+      <br/>
+      <code>Python</code> <code>OpenCV</code> <code>dlib</code> <code>OpenAI API</code>
+      <br/><br/>
+      Real-time driver fatigue detector using Eye/Mouth Aspect Ratio, processing live camera feed at 30 FPS. Uses OpenAI API for context-aware spoken alerts instead of a static buzzer.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Target" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/Unbored-AI">UnBored</a></b>
+      <br/>
+      <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Gemini API</code>
+      <br/><br/>
+      Full-stack AI activity-recommendation platform with a bento-box dashboard. Built a resilient AI orchestration layer using strict JSON-mode prompts with regex fallback parsing. Secure auth via Passport.js.
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/RakShak-3D">RakShak 3D</a></b>
+      <br/>
+      <code>Python</code> <code>CNN</code> <code>Random Forest</code> <code>React</code>
+      <br/><br/>
+      Multi-domain threat surveillance system integrating machine learning models for noise reduction and anomaly detection. Built as a hands-on collaborative college project alongside my classmates.
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" align="absmiddle" /> GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=codewith-vaidika&theme=tokyonight&hide_border=true" />
@@ -124,9 +117,9 @@ Full-stack AI activity-recommendation platform with a bento-box dashboard and sm
 
 ---
 
-### 🐍 Daily Activity — Contribution Snake
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" align="absmiddle" /> Daily Activity — Contribution Snake
 
-A tiny game runs on my contribution graph every single day: a snake that eats its way through my commits. It's powered by the GitHub Actions workflow it regenerates automatically on a daily schedule, so this is a **live, working** animation, not a static image.
+A tiny game runs on my contribution graph every single day: a snake that eats its way through my commits. It's powered by a GitHub Actions workflow that regenerates automatically on a daily schedule, so this is a **live, working** animation, not a static image.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codewith-vaidika/codewith-vaidika/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
@@ -134,7 +127,7 @@ A tiny game runs on my contribution graph every single day: a snake that eats it
 
 <div align="center">
 
-### 📬 Let's Connect
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="25" height="25" align="absmiddle" /> Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Vaidika%20Thakur-6C63FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaidika-thakur)](https://www.linkedin.com/in/vaidika-thakur)
 [![Gmail](https://img.shields.io/badge/-vaidikathakur116%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaidikathakur116@gmail.com)](mailto:vaidikathakur116@gmail.com)
