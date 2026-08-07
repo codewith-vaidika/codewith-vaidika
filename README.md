@@ -98,13 +98,12 @@ I'm a **B.Tech CSE** student at **VIT Bhopal** (CGPA `8.14/10`), building real-w
       Full-stack AI activity-recommendation platform with a bento-box dashboard. Built a resilient AI orchestration layer using strict JSON-mode prompts with regex fallback parsing. Secure auth via Passport.js.
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/RakShak-3D">RakShak 3D</a></b>
-      <br/>
-      <code>Python</code> <code>CNN</code> <code>Random Forest</code> <code>React</code>
-      <br/><br/>
-      Multi-domain threat surveillance system integrating machine learning models for noise reduction and anomaly detection. Built as a hands-on collaborative college project alongside my classmates.
-    </td>
-  </tr>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/zerodha-clone">Zerodha Clone</a></b>
+  <br/>
+  <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+  <br/><br/>
+  A full-stack stock trading dashboard inspired by Zerodha Kite. Features real-time market data visualization, user portfolio tracking, and a clean, responsive UI for seamless simulated trade execution.
+</td>
 </table>
 
 ---
