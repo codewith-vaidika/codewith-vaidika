@@ -103,6 +103,14 @@ Real-time driver fatigue detector using Eye/Mouth Aspect Ratio, processing live 
 Full-stack AI activity-recommendation platform with a bento-box dashboard and smooth image-slider transitions. Built a resilient AI orchestration layer using strict JSON-mode Gemini prompts with regex fallback parsing — zero crashes from unpredictable LLM output. Secure auth via Passport.js, media uploads via Cloudinary.
 
 </td>
+
+<td width="50%">
+  <b>😴 <a href="https://github.com/codewith-vaidika/Drowsiness-Detection">Drowsiness Detection & Alert System</a></b>
+  <br/>
+  <code>Python</code> <code>OpenCV</code> <code>dlib</code> <code>OpenAI API</code>
+  <br/><br/>
+  Real-time driver fatigue detector using Eye/Mouth Aspect Ratio, processing live camera feed at 30 FPS. Uses OpenAI API for context-aware spoken alerts instead of a static buzzer.
+</td>
 </tr>
 </table>
 
