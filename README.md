@@ -6,13 +6,13 @@
 
 <br/>
 
-<img src="./assets/section_about.png" width="100%" alt="About" />
+<img src="/section_about.png" width="100%" alt="About" />
 
 B.Tech CSE (AI & ML specialisation) student at VIT Bhopal, building full-stack systems end-to-end — backend architecture, REST APIs, and the frontends that sit on top of them. Comfortable in the space where traditional backend engineering meets LLM integration. Most of my thinking time goes into arrays, graphs, and dynamic programming.
 
 <br/>
 
-<img src="./assets/section_featured_projects.png" width="100%" alt="Featured Projects" />
+<img src="/section_featured_projects.png" width="100%" alt="Featured Projects" />
 
 <table>
 <tr>
@@ -121,7 +121,7 @@ Session-based auth and authorization via Passport.js, server-side validation wit
 
 <br/>
 
-<img src="./assets/section_connect.png" width="100%" alt="Connect" />
+<img src="/section_connect.png" width="100%" alt="Connect" />
 
 <div align="center">
 
