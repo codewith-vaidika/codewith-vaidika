@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero_banner.png" width="100%" alt="Vaidika Thakur" />
+<img src="/hero_banner.png" width="100%" alt="Vaidika Thakur" />
 
 </div>
 
