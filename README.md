@@ -71,7 +71,7 @@ Session-based auth and authorization via Passport.js, server-side validation wit
 
 <br/>
 
-<img src="./assets/section_engineering_highlights.png" width="100%" alt="Engineering Highlights" />
+<img src="/section_engineering_highlights.png" width="100%" alt="Engineering Highlights" />
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Session-based auth and authorization via Passport.js, server-side validation wit
 
 <br/>
 
-<img src="./assets/section_tech_stack.png" width="100%" alt="Tech Stack" />
+<img src="/section_tech_stack.png" width="100%" alt="Tech Stack" />
 
 <div align="center">
 
