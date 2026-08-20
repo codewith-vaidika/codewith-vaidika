@@ -1,137 +1,144 @@
 <div align="center">
 
-<!-- Animated typing intro -->
-<a href="https://github.com/codewith-vaidika">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vaidika+Thakur+%F0%9F%91%8B;Full-Stack+Developer+%7C+Software+Engineering;B.Tech+CSE+%40+VIT+Bhopal+(2027);300%2B+DSA+Problems+Solved+%F0%9F%92%AA;Building+cool+things+with+MERN+%2B+AI" alt="Typing SVG" />
-</a>
+# vaidika thakur ⋆ ˚｡⋆౨ৎ˚⋆
+
+### `building things that talk to databases, and occasionally, to LLMs`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duotone=true&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=full-stack+%2B+backend+systems;REST+APIs+%C2%B7+MVC+%C2%B7+LLM+orchestration;300%2B+DSA+problems+solved" alt="typing-svg" />
+
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=codewith-vaidika&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidika-thakur)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vaidika_116/)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hi-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaidikathakur116@gmail.com)
+## ⋆ about
 
-</div>
+B.Tech CSE (AI & ML specialisation) student at VIT Bhopal, building full-stack systems end-to-end — backend architecture, REST APIs, and the frontends that sit on top of them. Comfortable in the space where traditional backend engineering meets LLM integration. Most of my thinking time goes into arrays, graphs, and dynamic programming.
 
----
+<br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" align="absmiddle" /> About Me
-
-I'm a **B.Tech CSE** student at **VIT Bhopal** (CGPA `8.14/10`), building real-world projects across full-stack web development and applied machine learning. I've solved **300+ DSA problems**, shipped several Python & JavaScript applications end-to-end, and I'm currently looking for a **Software Engineering internship** where I can jump in and contribute from day one.
-
-- 🔭 Currently building **UnBored** — an AI activity-recommendation platform
-- 🌱 Sharpening skills in **DSA, System Design & Full-Stack Development**
-- 🏆 Certificate of Acknowledgement — *Bharatiya Antariksh Hackathon 2025* (ISRO & Hack2skill)
-- 🎓 Registered Participant — *TCS CodeVita Season 13*
-- 📝 Co-authored undergraduate research on **AI-based legal assistance systems**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/High%20Voltage.png" alt="Lightning" width="18" height="18" align="absmiddle" /> Fun fact: I built a system that watches you fall asleep and yells at you (nicely) before you crash
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" align="absmiddle" /> Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Web Development**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**AI / ML**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" align="absmiddle" /> Featured Projects
+## ⋆ featured builds
 
 <table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/search-box-app">Search Box Application</a></b>
-      <br/>
-      <code>JavaScript</code> <code>Node.js</code> <code>Express.js</code>
-      <br/><br/>
-      Full-stack search app running multi-keyword queries across 10,000+ local records at <200ms response time. Custom Express middleware cut query latency by 40% through efficient indexing.
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" alt="Sleep" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/Drowsiness-Detection">Drowsiness Detection System</a></b>
-      <br/>
-      <code>Python</code> <code>OpenCV</code> <code>dlib</code> <code>OpenAI API</code>
-      <br/><br/>
-      Real-time driver fatigue detector using Eye/Mouth Aspect Ratio, processing live camera feed at 30 FPS. Uses OpenAI API for context-aware spoken alerts instead of a static buzzer.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Target" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/Unbored-AI">UnBored</a></b>
-      <br/>
-      <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Gemini API</code>
-      <br/><br/>
-      Full-stack AI activity-recommendation platform with a bento-box dashboard. Built a resilient AI orchestration layer using strict JSON-mode prompts with regex fallback parsing. Secure auth via Passport.js.
-    </td>
-    <td width="50%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="20" height="20" align="absmiddle" /> <b><a href="https://github.com/codewith-vaidika/zerodha-clone">Zerodha Clone</a></b>
-  <br/>
-  <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
-  <br/><br/>
-  A full-stack stock trading dashboard inspired by Zerodha Kite. Features real-time market data visualization, user portfolio tracking, and a clean, responsive UI for seamless simulated trade execution.
+<tr>
+<td width="50%" valign="top">
+
+**🌙 UnBored**
+*AI activity-recommendation platform*
+
+An AI orchestration layer over the Gemini API — strict JSON-mode prompts with regex fallback parsing, so unpredictable LLM output never crashes the server.
+
+`Node.js` `Express` `MongoDB` `Gemini API`
+
+[→ github.com/codewith-vaidika/UnBored](https://github.com/codewith-vaidika/UnBored)
+
 </td>
+<td width="50%" valign="top">
+
+**🔍 Search Box Application**
+*Multi-keyword local search engine*
+
+Executes multi-keyword queries across **10,000+ records** at **sub-200ms** response time; custom indexing cut query latency by **40%**.
+
+`JavaScript` `Node.js` `Express.js`
+
+[→ github.com/codewith-vaidika/search-box-app](https://github.com/codewith-vaidika/search-box-app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🚗 Drowsiness Detection & Alert System**
+*Real-time driver fatigue detection*
+
+Computes Eye Aspect Ratio & Mouth Aspect Ratio to catch microsleeps and yawning — sustaining **30 FPS** on standard CPU hardware, alert latency under **200ms**.
+
+`Python` `OpenCV` `dlib` `OpenAI API`
+
+[→ github.com/codewith-vaidika/Drowsiness-Detection](https://github.com/codewith-vaidika/Drowsiness-Detection)
+
+</td>
+<td width="50%" valign="top">
+
+**🏡 WanderWave**
+*Property rental platform, MVC architecture*
+
+Session-based auth & authorization via Passport.js, server-side validation with Joi, and cloud-based image handling — clean separation of routes, controllers, and models.
+
+`Node.js` `Express.js` `MongoDB` `Passport.js`
+
+[→ github.com/codewith-vaidika/wavewonder](https://github.com/codewith-vaidika/wavewonder)
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" align="absmiddle" /> GitHub Stats
+## ⋆ engineering signals
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codewith-vaidika&theme=tokyonight&hide_border=true" />
+
+| metric | context |
+|---|---|
+| **300+** | DSA problems solved (LeetCode / GeeksforGeeks) |
+| **10,000+** | records queried at sub-200ms latency |
+| **40%** | query latency reduction via custom indexing |
+| **30 FPS** | sustained real-time CPU video processing |
+| **<200ms** | end-to-end alert latency |
+
 </div>
 
----
+<br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" align="absmiddle" /> Daily Activity — Contribution Snake
+## ⋆ tech stack
 
-A tiny game runs on my contribution graph every single day: a snake that eats its way through my commits. It's powered by a GitHub Actions workflow that regenerates automatically on a daily schedule, so this is a **live, working** animation, not a static image.
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend / Full-Stack**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**AI / Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Tools / Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br/>
+
+## ⋆ activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codewith-vaidika/codewith-vaidika/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=codewith-vaidika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-vaidika&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<br/>
+
+## ⋆ connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidika-thakur)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaidikathakur116@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewith-vaidika)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaidika_116/)
+
 </div>
 
 <div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="25" height="25" align="absmiddle" /> Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Vaidika%20Thakur-6C63FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaidika-thakur)](https://www.linkedin.com/in/vaidika-thakur)
-[![Gmail](https://img.shields.io/badge/-vaidikathakur116%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaidikathakur116@gmail.com)](mailto:vaidikathakur116@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-Vaidika__116-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/Vaidika_116/)](https://leetcode.com/u/Vaidika_116/)
-
-*Thanks for stopping by — feel free to explore my repos, star what you like, or drop a message!* ⭐
-
+<sub>⋆ currently deep in arrays, graphs, and whatever bug broke the build at 2am ⋆</sub>
 </div>
