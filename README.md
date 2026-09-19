@@ -37,7 +37,7 @@ Executes multi-keyword queries across **10,000+ records** at **sub-200ms** respo
 
 `JavaScript` `Node.js` `Express.js`
 
-[View Repository →](https://github.com/codewith-vaidika/search-box-app)
+[View Repository →](https://github.com/codewith-vaidika/swiftsearch)
 
 </td>
 </tr>
