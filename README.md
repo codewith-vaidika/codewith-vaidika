@@ -25,7 +25,7 @@ An AI orchestration layer over the Gemini API — strict JSON-mode prompts with 
 
 `Node.js` `Express` `MongoDB` `Gemini API`
 
-[View Repository →](https://github.com/codewith-vaidika/UnBored)
+[View Repository →](https://github.com/codewith-vaidika/UnBored-AI)
 
 </td>
 <td width="50%" valign="top">
